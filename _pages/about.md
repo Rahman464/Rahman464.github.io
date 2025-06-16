@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Penn State, specializing in 
 
 
 <br>
-<figcaption><em>Simulated evolution of microstructure under Electron Wind Force (EWF) and thermal annealing</em></figcaption>
-![EWF animation](/images/EWF-highlight.gif)
 
+![EWF animation](/images/EWF-highlight.gif)
+<figcaption><em>Simulated evolution of microstructure under Electron Wind Force (EWF) and thermal annealing</em></figcaption>
 
