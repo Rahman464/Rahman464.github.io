@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. candidate in Mechanical Engineering at Penn State, specializing in defect dynamics in radiation-damaged materials and wide-bandgap semiconductors. My research focuses on low-temperature annealing using Electron Wind Force (EWF) to restore device performance and microstructural integrity in advanced materials.
+I am a Ph.D. candidate in Mechanical Engineering at Penn State, specializing in defect dynamics in radiation-damaged materials and wide-bandgap semiconductors. My research focuses on low-temperature annealing using Electron Wind Force (EWF) to restore device performance and microstructural integrity in advanced materials.
+
+
