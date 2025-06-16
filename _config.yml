@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Md Hafijur Rahman"
-  pronouns         : # example: "He/him"  
+  pronouns         : example: "He/him"  
   bio              : "Graduate Research Assistant, Department of Mechanical Engineering, The Pennsylvania State University"
   #location         : ""
   employer         : "Pennstate University"
-  uri              :  https://www.me.psu.edu/
+  uri              :  "https://www.me.psu.edu/"
   email            : "mxr5923@psu.edu" 
 
   # Academic websites
@@ -52,13 +52,13 @@ author:
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : https://www.facebook.com/mdhafijurrahman.masum.33/
+  facebook         : "https://www.facebook.com/mdhafijurrahman.masum.33/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://www.instagram.com/hafijur_rahman_masum/
+  instagram        : "https://www.instagram.com/hafijur_rahman_masum/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
