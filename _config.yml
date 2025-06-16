@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Md Hafijur Rahman"
-  pronouns         : example: "He/him"  
+  pronouns         : #example: "He/him"  
   bio              : "Graduate Research Assistant, Department of Mechanical Engineering, The Pennsylvania State University"
   #location         : ""
   employer         : "Pennstate University"
