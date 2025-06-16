@@ -1,13 +1,10 @@
 ---
-title: "Md Hafijur Rahman"
-layout: splash
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-  overlay_image: /images/header.jpg
-  actions:
-    - label: "View My CV"
-      url: "/cv/"
-excerpt: "PhD candidate in Mechanical Engineering at Penn State. I work on defect dynamics in radiation-damaged materials and semiconductors."
+title: "Personal Website for Md Hafijur Rahman"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+Ph.D. candidate in Mechanical Engineering at Penn State, specializing in defect dynamics in radiation-damaged materials and wide-bandgap semiconductors. My research focuses on low-temperature annealing using Electron Wind Force (EWF) to restore device performance and microstructural integrity in advanced materials.
