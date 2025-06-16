@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website for Md Hafijur Rahman"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
